@@ -1,0 +1,378 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.main{
+    height: 500px;
+    width: 500px;
+    background: teal;
+    top: 0px;
+    left: 50%;
+    transform: translateX(-50%);
+    position: relative;
+    border-radius: 30px;
+}
+.a{
+    height: 100px;
+    width: 100px;
+    background: yellow;
+    position: absolute;
+    border-radius: 20px;
+    border-radius: 30px;
+}
+.b{
+    height: 100px;
+    width: 100px;
+    background: yellow;
+    top: 0px;
+    right: 0px;
+    position: absolute;
+    border-radius: 30px;
+}
+.c{
+    height: 100px;
+    width: 100px;
+    background: yellow;
+    left: 0px;
+    bottom: 0px;
+    position: absolute;
+    border-radius: 30px;
+}
+.d{
+    height: 100px;
+    width: 100px;
+    background: yellow;
+    right: 0px;
+    bottom: 0px;
+    position: absolute;
+    border-radius: 30px;
+}
+.e{
+    height: 100px;
+    width: 100px;
+    background: yellow;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 30px;
+}
+.f{
+    height: 100px;
+    width: 100px;
+    background: yellow;
+    right: 0px;
+   left: 50%;
+    position: absolute;
+    transform: translateX(-50%);
+    border-radius: 30px;
+}
+.g{
+    height: 100px;
+    width: 100px;
+    background: yellow;
+    top: 50%;
+    left: 0px;
+    position: absolute;
+    transform: translateY(-50%);
+    border-radius: 30px;
+}
+.h{
+    height: 100px;
+    width: 100px;
+    background: yellow;
+    top: 50%;
+    right: 0px;
+    position: absolute;
+    transform: translateY(-50%);
+    border-radius: 30px;
+}
+.i{
+    height: 100px;
+    width: 100px;
+    background: yellow;
+    left: 50%;
+    bottom: 0px;
+    position: absolute;
+    transform: translateX(-50%);
+    border-radius: 30px;
+}
+.aa{
+    
+    height: 50px;
+    width: 50px;
+    background: rgb(0, 255, 170);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 10px;
+
+}
+.bb{
+    height: 50px;
+    width: 50px;
+    background: rgb(0, 255, 170);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 10px;
+
+}
+.cc{
+    height: 50px;
+    width: 50px;
+    background: rgb(0, 255, 170);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 10px;
+
+}
+.dd{
+    height: 50px;
+    width: 50px;
+    background: rgb(0, 255, 170);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 10px;
+
+}
+.ee{
+    height: 50px;
+    width: 50px;
+    background: rgb(0, 255, 170);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 10px;
+
+}
+.ff{
+    height: 50px;
+    width: 50px;
+    background: rgb(0, 255, 170);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 10px;
+
+}
+.gg{
+    height: 50px;
+    width: 50px;
+    background: rgb(0, 255, 170);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 10px;
+
+}
+.hh{
+    height: 50px;
+    width: 50px;
+    background: rgb(0, 255, 170);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 10px;
+}
+.ii{
+    height: 50px;
+    width: 50px;
+    background: rgb(0, 255, 170);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 10px;
+
+}
+.aaa{
+    height: 25px;
+    width: 25px;
+    background: rgb(153, 0, 255);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 10px;
+}
+.bbb{
+    height: 25px;
+    width: 25px;
+    background: rgb(153, 0, 255);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 10px;
+}
+.ccc{
+    height: 25px;
+    width: 25px;
+    background: rgb(153, 0, 255);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 10px;
+}
+.ddd{
+    height: 25px;
+    width: 25px;
+    background: rgb(153, 0, 255);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 10px;
+}
+.eee{
+    height: 25px;
+    width: 25px;
+    background: rgb(153, 0, 255);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 10px;
+}
+.fff{
+    height: 25px;
+    width: 25px;
+    background: rgb(153, 0, 255);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 10px;
+}
+.ggg{
+    height: 25px;
+    width: 25px;
+    background: rgb(153, 0, 255);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 10px;
+}
+.hhh{
+    height: 25px;
+    width: 25px;
+    background: rgb(153, 0, 255);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 10px;
+}
+.iii{
+    height: 25px;
+    width: 25px;
+    background: rgb(153, 0, 255);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 10px;
+}
+.aaaa{
+    height: 10px;
+    width: 10px;
+    background: rgb(255, 255, 255);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 5px;
+}
+.bbbb{
+    height: 10px;
+    width: 10px;
+    background: rgb(255, 255, 255);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 5px;
+}
+.cccc{
+    height: 10px;
+    width: 10px;
+    background: rgb(255, 255, 255);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 5px;
+}
+.dddd{
+    height: 10px;
+    width: 10px;
+    background: rgb(255, 255, 255);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 5px;
+}
+.eeee{
+    height: 10px;
+    width: 10px;
+    background: rgb(255, 255, 255);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 5px;
+}
+.ffff{
+    height: 10px;
+    width: 10px;
+    background: rgb(255, 255, 255);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 5px;
+}
+.gggg{
+    height: 10px;
+    width: 10px;
+    background: rgb(255, 255, 255);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 5px;
+}
+.hhhh{
+    height: 10px;
+    width: 10px;
+    background: rgb(255, 255, 255);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 5px;
+}
+.iiii{
+    height: 10px;
+    width: 10px;
+    background: rgb(255, 255, 255);
+    top: 50%;
+    left: 50%;
+    position: absolute;
+ transform: translateX(-50%) translateY(-50%);
+ border-radius: 5px;
+}
